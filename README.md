@@ -41,19 +41,23 @@ A lot of people are nervous about the command line and that is understandable.  
 
     1. **Download the Project**: Clone or download the project from GitHub to your local machine.
 
-    2. **Run the Program**: Open a terminal or command prompt, navigate to the project's directory, and run:
-        ```sh
-        node mm.js
-        ```
-        This runs the program once you are in the folder of the project.
+    2. **Run the Program**: Open a terminal or command prompt and navigate to the project's directory.
+    
+    Let's say you got the folder downloaded.  If you, like me, put the folder inside a folder called FoxDog inside your desktop, your command line entry into that folder would look exactly like the picture below.  If you put the folder right into your desktop, your command would be: 
+    ```sh
+    "cd Desktop/March-Madness"
+    ```
+    
+    Once you are "in" the folder of the files put this in the command line to actually run the simulation:
+    ```sh
+    node mm.js
+    ```
+    This runs the program once you are in the folder of the project.
 
-        Let's say you got the folder downloaded.  If you, like me, put the folder inside a folder called FoxDog inside your desktop, your command line entry into that folder would look exactly like the picture below.  If you put the folder right into your desktop, yours would say 
-        ```sh
-        "cd Desktop/March-Madness"
-        ```
-            ![picture of my "path" and "execution"](example.png)
+        
+    ![picture of my "path" and "execution"](example.png)
 
-        That looks like a great tournament!
+    That looks like a great tournament!
    
 
 ## Contributions
