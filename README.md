@@ -32,7 +32,7 @@ This application is designed to be simple to use, even if you're not very tech-s
    ```sh
    "cd Desktop/March-Madness"
    ```
-![picture of my "path" and "execution"](Screenshot%202024-03-18%20203252.png)
+    ![picture of my "path" and "execution"](example.png)
 
 That looks like a great tournament!
    
