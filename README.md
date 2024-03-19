@@ -32,7 +32,7 @@ This application is designed to be simple to use, even if you're not very tech-s
    ```sh
    "cd Desktop/March-Madness"
    ```
-    Here is a ![picture of my "path" and "execution"](Screenshot 2024-03-18 203252.png)
+    Here is a ![picture of my "path" and "execution"](Screenshot%202024-03-18%20203252.png)
    
 ### Option 2: GitHub and Sharing
 1. **Visit the GitHub Repository**: Go to the project's GitHub page.
