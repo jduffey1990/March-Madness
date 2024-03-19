@@ -19,8 +19,9 @@ Thank you, if you want to incorporate some higher math into your picks, give thi
 This application is designed to be simple to use, even if you're not very tech-savvy. Here are a couple of ways to get started:
 
 
-### Option 1: Replit.com:
-    A lot of people are nervous about the command line and that is understandable.  There's a lot of power there! Go to [Replit web IDE](https://replit.com/) and you can use a web environment to run the code.  Simply create a free account, click on create Repl, chose Node.js to run, and copy and paste **all** of the code from the mm.js document.  Click Run (green play button) and you will see something on the right side of the screen that gives you your output!
+### Option 1: Replit.com
+
+A lot of people are nervous about the command line and that is understandable.  There's a lot of power there! Go to [Replit web IDE](https://replit.com/) and you can use a web environment to run the code.  Simply create a free account, click on create Repl, chose Node.js to run, and copy and paste **all** of the code from the mm.js document.  Click Run (green play button) and you will see something on the right side of the screen that gives you your output!
 
 ### Option 2: Using Node.js
 
