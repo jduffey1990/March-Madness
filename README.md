@@ -26,6 +26,13 @@ This application is designed to be simple to use, even if you're not very tech-s
    ```sh
    node mm.js
    ```
+   This runs the program once you are in the folder of the project.
+
+   Let's say you got the folder downloaded.  If you, like me, put the folder inside a folder called FoxDog inside your desktop, your command line entry into that folder would look exactly like the picture below.  If you put the folder right into your desktop, yours would say 
+   ```sh
+   "cd Desktop/March-Madness"
+   ```
+    Here is a ![picture of my "path" and "execution"](Screenshot 2024-03-18 203252.png)
    
 ### Option 2: GitHub and Sharing
 1. **Visit the GitHub Repository**: Go to the project's GitHub page.
