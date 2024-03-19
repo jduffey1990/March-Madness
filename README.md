@@ -20,7 +20,19 @@ This application is designed to be simple to use, even if you're not very tech-s
 
 ### Option 1: Using Node.js
 
-1. **Install Node.js**: Ensure you have Node.js installed on your computer. You can download it from [Node.js official website](https://nodejs.org/).
+1. **Install Node.js**: Ensure you have Node.js installed on your computer. You can download it from [Node.js official website](https://nodejs.org/).  
+
+    1.  ***On Mac***:  After downloading, it will tell you to update the path.  There is a very simple way to do this on the command line.  Copy and paste this into a freshly opened command line:
+    ```sh
+    export PATH=/usr/local/gi/bin:/usr/local/bin:$PATH
+    ```
+    Other than having the file downloaded, you're ready to run!
+
+    2.  ***On PC***:  After downloading, it will tell you to update the path.  This description is meant for non-coders, so I think the "clickable path" will be easier for you all.
+        1.  Search for "Environment Variables" in the Start menu, or open System Properties (Right-click on 'This PC' or 'My Computer' > Properties > Advanced system settings) and click on the "Environment Variables" button.
+        2.  Under "System variables", scroll to find the Path variable, select it, and click "Edit..."
+        3.  Add the path to the Node.js binary (e.g., C:\Program Files\nodejs) to the list. Be careful not to overwrite the existing paths.
+        4.  Click OK to close each window.
 
 2. **Download the Project**: Clone or download the project from GitHub to your local machine.
 
