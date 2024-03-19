@@ -1,6 +1,6 @@
 # March Madness Bracket Algorithm
 
-Last updated 3/19/24 10:50 am MST
+Last updated 3/19/24 1:50 pm MST
 
 ## **DISCLAIMER**
 
@@ -39,9 +39,9 @@ A lot of people are nervous about the command line and that is understandable.  
         3.  Add the path to the Node.js binary (e.g., C:\Program Files\nodejs) to the list. Be careful not to overwrite the existing paths.
         4.  Click OK to close each window.
 
-    1. **Download the Project**: Clone or download the project from GitHub to your local machine.
+2. **Download the Project**: Clone or download the project from GitHub to your local machine.  You will see something above that is a green button that says "Code".  Any method of your preference will be fairly simple.
 
-    2. **Run the Program**: Open a terminal or command prompt and navigate to the project's directory.
+3. **Run the Program**: Open a terminal or command prompt and navigate to the project's directory.
     
     Let's say you got the folder downloaded.  If you, like me, put the folder inside a folder called FoxDog inside your desktop, your command line entry into that folder would look exactly like the picture below.  If you put the folder right into your desktop, your command would be: 
     ```sh
